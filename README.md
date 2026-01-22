@@ -1,14 +1,8 @@
-Somos una empresa especializada en las atracciones de riesgo. Ocean Risks, S.L, nace como una organización amante del mar y su vida. Nuestro equipo está integrado por distinto tipos de amantes de este ecosistema, desde simples exploradores, contando también con biólogos y, particularmente, especialistas en la fauna representada por los tiburones, que son el centro de nuestra nueva aventura.
+*EN BÚSQUEDA DE NUEVOS MERCADOS*
 
+OBJETIVO DEL PROYECTO: Determinar las mejores áreas para desarrollar un nuevo negocio. 
 
-El mar y su fauna han sido nuestra pasión desde niños, donde solíamos ir a bucear e interactuar con todas las especies que pudiéramos. Es por ello que nos hemos aventurado en ofrecer este tipo de atractivos a quienes compartan nuestra ilusión. Para esta ocasión, hemos decidido ofrecer un servicio especial y no sin su componente de riesgo. El avistamiento de tiburones tiene como fin la observación e interacción con una especie muy territorial, caracterizada por defender su territorio y no exenta de su cuota de ataque cuando se siente amenazada. 
+CONTEXTO DEL NEGOCIO: Empresa ficticia que busca ampliar su mercado, ofreciendo un servicio de inmersión marina para contactar con tiburones. En virtud de ello, se hace un análisis de diferentes eventos ocurridos con estos animales, identificar si se trató de eventos fatales o no, víctimas más frecuentes, etc.
 
+DATASET: DataFrame oficiaL de la Global Shark Attack File. En el mismo, se observan variables a destacar, como: país, año, especie de tiburón, si fue un ataque provocado o fortuito, etc.
 
-Para la realización de esta investigación nos hemos basado en un trabajo realizado por la *Global Shark Attack File*, para determinar el nivel de riesgo que esta actividad supone, considerando los distintos episodios vinculados con incidentes de tiburones en los Estados Unidos, la zona donde mayor avistamientos y episodios de incidentes ocurridos con esta especie ha habido según los datos registrados.  
-
-
-RECURSOS ESTADÍSTICOS A UTILIZAR:
--EVOLUCION HISTORICA. FOCO EN LO QUE LLEVAMOS DE SIGLO
--ZONAS DONDE MAYOR CANTIDAD DE ATAQUES SE HAN REGISTRADO.
-    EN ESTAS ZONAS, DESCRIPCION DE LA VICTIMAS, SI SE TRATÓ DE ATAQUES MORTALES O NO, 
-- 
