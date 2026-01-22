@@ -12,3 +12,12 @@ PREGUNTAS CLAVE: ¿Son provocados los ataques? ¿Dónde se ha registrado el mayo
 
 PROCESO DE ANÁLISIS: En primer lugar, se realizó un conteo de los casos, discriminados por país, para conocer el lugar donde más actividad se registró. A continuación, se optó por Estados Unidos, que resultó ser esa zona, además de la filtración de los datos desde el año 2000, siendo que la tasa de ataques se vio incrementada respecto a épocas anteriores. Una vez realizados estos filtros, decidimos por agrupar las distintas edades en distintos grupos para facilitar la comprensión de los grupos más afectados, al igual que las actividades que se estaban desarrollando al momento del ataque, etc.
 
+RESULTADOS: 
+
+RECOMENDACIONES DE NEGOCIO: 
+
+LIMITACIONES: Nos enfrentamos a distintos tipos de datos, desde algunos nulos, pasando por valores no numéricos en campos donde se hacía necesaria su utilización, los cuales hubo que limpiar, en primer lugar, para luego formatear y analizar su utilidad dentro del proyecto.
+
+PROXIMOS PASOS: Averiguar la viabilidad del proyecto. Realización de análisis estadístico-financieros para comprobar si es viable un proyecto de este tipo.
+
+COMO REPLICAR EL PROYECTO: 
